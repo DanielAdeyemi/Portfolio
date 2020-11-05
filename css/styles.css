@@ -11,11 +11,16 @@ img {
 
 .good-bye
 {
-  text-align: center;
   background-color: yellow;
   border: 2px dotted green;
   padding: 50px;
-  margin: 100px;
+  margin: 50px;
   box-sizing: border-box;
-  width: fit-content;
+  width: 80%;
+}
+
+.bye {
+  font-style: italic;
+  text-align: center;
+  color: purple;
 }

@@ -1,0 +1,21 @@
+img {
+  float: right;
+}
+
+.column {
+  width: fit-content;
+  float: left;
+  box-sizing: border-box;
+  width: 45%;
+}
+
+.good-bye
+{
+  text-align: center;
+  background-color: yellow;
+  border: 2px dotted green;
+  padding: 50px;
+  margin: 100px;
+  box-sizing: border-box;
+  width: fit-content;
+}

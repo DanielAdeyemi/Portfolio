@@ -8,4 +8,4 @@ This project aimed to conclude first 3 weeks of practice at **Epicodus** and cre
 * My projects No special setup required, your laptop with internet connection would be just enough.
 You can find my web page through [GitHub pages](https://danieladeyemi.github.io/Portfolio/)
 
-&#169 Daniel Adeyemi
+© Daniel Adeyemi

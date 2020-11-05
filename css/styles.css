@@ -24,3 +24,7 @@ img {
   text-align: center;
   color: purple;
 }
+
+.under {
+  text-decoration: underline;
+}

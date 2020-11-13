@@ -18,15 +18,19 @@ img {
 
 .good-bye
 {
+  display: block;
   background-color: yellow;
   border: 2px dotted green;
   padding: 50px;
-  margin: 50px;
+  margin: 0px auto;
   box-sizing: border-box;
   width: 80%;
 }
 
 .bye {
+  margin: auto;
+  height: auto;
+  display: block;
   font-style: italic;
   text-align: center;
   color: purple;
